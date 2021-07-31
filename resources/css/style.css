@@ -34,3 +34,7 @@ p {
   color: gray;
   text-align: right;
 }
+
+.margin {
+  margin-top: 30px;
+}
