@@ -12,6 +12,7 @@ nav ul {
   font-size: large;
   padding: 2rem 0 2rem;
   margin: 0;
+  border-radius: 10px;
 }
 
 nav li {
